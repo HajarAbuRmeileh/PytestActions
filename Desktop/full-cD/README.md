@@ -14,7 +14,7 @@ The k8s objects defined in YAML files are used to deploy the app into a Kubernet
 4) **mssql-secret.yaml**: creates a Secret to securely save database connection string as key-value pair.  
 5) **mssql-pv.azure.yaml**: creates PersistentVolume and PersistentVolumeClaim objects in order to provision a storage space to save the database files.  
 
-### 1) Introduction: Kubernetes and microservices
+### 1) Introduction: Kubernetes and microservicess
 
     1.1) The vision: Microservices on Docker containers on Kubernetes hosted on the Cloud and powered by DevOps.
     
